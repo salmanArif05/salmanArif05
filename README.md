@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanarif05&label=Profile%20views&color=0e75b6&style=flat" alt="salmanarif05" /> </p>
 
-- 💬 Ask me about **react, bootstrap, tailwind,**
+- 💬 Ask me about **React, Bootstrap, Tailwind,**
 
 - 📫 How to reach me **salmanarif1010@gmail.com**
 
