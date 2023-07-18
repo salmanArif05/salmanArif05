@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman Arif</h1>
-<h3 align="center">A passionate frontend developer from Pakistan!!!</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan!!!</h3>
 
 - 💬 Ask me about **react, bootstrap, tailwind,**
 
