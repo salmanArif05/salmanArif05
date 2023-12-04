@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salman Arif</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan!!!</h3>
 
-- 💬 Ask me about **React, Bootstrap, Tailwind, Scss**
+- 💬 Ask me about **React, NEXT, Bootstrap, Tailwind, Scss, Node**
 
 - 📫 How to reach me **salmanarif1010@gmail.com**
 
